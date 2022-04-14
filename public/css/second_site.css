@@ -1,0 +1,19 @@
+/* bubbler-one-regular - latin */
+@font-face {
+    font-family: 'Bubbler One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/fonts/bubbler-one-v18-latin-regular.eot?907168f960038c4250db33d7c0257e3b); /* IE9 Compat Modes */
+    src: local(''),
+    url(/fonts/bubbler-one-v18-latin-regular.eot?907168f960038c4250db33d7c0257e3b?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+    url(/fonts/bubbler-one-v18-latin-regular.woff2?3071d55c73a3d07569ff980cad23846d) format('woff2'), /* Super Modern Browsers */
+    url(/fonts/bubbler-one-v18-latin-regular.woff?bf8810f696aebf22f9049c3dd0f166c2) format('woff'), /* Modern Browsers */
+    url(/fonts/bubbler-one-v18-latin-regular.ttf?e7a9e9f5dbf136371e3b68cd491761b6) format('truetype'), /* Safari, Android, iOS */
+    url(/fonts/bubbler-one-v18-latin-regular.svg?817d7d7df72e9b7154feb79b66e279e7#BubblerOne) format('svg'); /* Legacy iOS */
+}
+
+body {
+    font-family: 'Bubbler One';
+    background: blue;
+}
+
